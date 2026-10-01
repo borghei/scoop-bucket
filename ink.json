@@ -1,5 +1,5 @@
 {
-    "version": "0.9.0",
+    "version": "0.10.0",
     "description": "A terminal markdown reader that actually looks good",
     "homepage": "https://github.com/borghei/ink",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/borghei/ink/releases/download/v0.9.0/ink-windows-amd64.exe",
-            "hash": "7d69fa7909ed28b1622b2192aabab371a4a67dafa4e06510d3118d8cc15a22a8",
+            "url": "https://github.com/borghei/ink/releases/download/v0.10.0/ink-windows-amd64.exe",
+            "hash": "62310e26668d45e822af58a7af2a6cb847e7e846a781523b62bafc7ef322f1c5",
             "bin": [
                 [
                     "ink-windows-amd64.exe",
@@ -18,8 +18,8 @@
             ]
         },
         "arm64": {
-            "url": "https://github.com/borghei/ink/releases/download/v0.9.0/ink-windows-arm64.exe",
-            "hash": "ebd87cd9950e9ef6edb882ca7c6ea9951e0b390fdf6f2157a5ce1b944c855977",
+            "url": "https://github.com/borghei/ink/releases/download/v0.10.0/ink-windows-arm64.exe",
+            "hash": "47d37910ba7ab16f6393c22407954bc253d3c1a42ada1adab9daa38df9dc0f0c",
             "bin": [
                 [
                     "ink-windows-arm64.exe",
